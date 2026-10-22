@@ -21,3 +21,6 @@ dist-ssr
 *.sln
 *.sw?
 .env
+*.db
+*.sqlite
+*.sqlite3
