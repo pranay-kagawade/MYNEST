@@ -50,3 +50,8 @@ Data storage depends on the application's configuration. Cloud storage requires 
 🎬 Demo Video
 
 A short demonstration video can show how to use the MYNEST dashboard and its main features.
+
+
+https://github.com/user-attachments/assets/4c382c9d-52c0-4b0a-bc3a-6094bba3e63d
+
+
