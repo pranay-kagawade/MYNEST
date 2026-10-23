@@ -45,3 +45,8 @@ npm run build
 ## 🔐 Data and Privacy
 
 Data storage depends on the application's configuration. Cloud storage requires a properly configured database, while browser storage may keep data on the current device.
+
+```
+🎬 Demo Video
+
+A short demonstration video can show how to use the MYNEST dashboard and its main features.
