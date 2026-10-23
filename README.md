@@ -4,6 +4,9 @@
 
 MYNEST is a personal productivity web app that helps users to organize daily activities, manage tasks, track habits, take notes, and achieve their goals in one place.
 
+## Direct link
+https://personal-productivit-jgde.bolt.host/
+
 ## ✨ Features
 
 - **Dashboard:** Personalized welcome and daily overview.
