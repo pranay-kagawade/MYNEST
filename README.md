@@ -2,7 +2,7 @@
 
 **Your day. Your goals. Your space.**
 
-MYNEST is a personal productivity web app that helps users organize daily activities, manage tasks, track habits, take notes, and achieve their goals in one place.
+MYNEST is a personal productivity web app that helps users to organize daily activities, manage tasks, track habits, take notes, and achieve their goals in one place.
 
 ## ✨ Features
 
@@ -49,7 +49,7 @@ Data storage depends on the application's configuration. Cloud storage requires 
 
 ## 🎬 Demo Video
 ```
-A short demonstration video can show how to use the MYNEST dashboard and its main features.
+A short demonstration video can show how to use the MYNEST dashboard and its main features in MYNEST.
 ```
 
 
