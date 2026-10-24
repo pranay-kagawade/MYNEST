@@ -26,7 +26,7 @@ https://personal-productivit-jgde.bolt.host/
 - TypeScript
 - Vite
 - Tailwind CSS
-- Database (if configured)
+- Database 
 
 ## 🚀 Getting Started
 
